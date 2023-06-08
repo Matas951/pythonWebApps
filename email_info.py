@@ -10,7 +10,6 @@ def send_email(message):
 
     username = "asmatas02@gmail.com"
     password = os.getenv("PASSWORD")
-    # password = "usnellxvefloqoxh"
 
     receiver = "asmatas02@gmail.com"
 
